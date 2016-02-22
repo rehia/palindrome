@@ -1,0 +1,9 @@
+﻿_ReSharper.*/
+*.suo
+*.v12.suo
+*.sln.DotSettings.user
+*.TeamCity.user
+*.1.2.dotCover
+bin/
+obj/
+packages/
